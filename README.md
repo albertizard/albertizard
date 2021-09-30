@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Albert!
+
+I don't have much to share here for now, but stay tunned and I hope to have more to tell!
 
 <!--
 **albertizard/albertizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
