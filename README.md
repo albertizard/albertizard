@@ -1,8 +1,12 @@
 ### Hi, I'm Albert!
 
-I don't have much to share here for now, but stay tunned and I hope to have more to tell!
+Data scientist, physicist and astronomer. Hands-on data analysis and statistical modeling.
 
-I like playing with data and learning what data can tell us. 
+In a relationship with N-body simulations for over 10 years.
+
+Let's see what data can tell us!
+
+Please contact me at albertizard ~at~ albertizard d0t com if this ressonates with you.
 
 <!--
 **albertizard/albertizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
