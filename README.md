@@ -6,7 +6,7 @@ In a relationship with N-body simulations for over 10 years.
 
 Let's see what data can tell us!
 
-Please contact me at albertizard ~at~ albertizard d0t com if this ressonates with you.
+Please contact me at ai \~at\~ albertizard d0t com if this ressonates with you.
 
 <!--
 **albertizard/albertizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
